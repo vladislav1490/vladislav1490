@@ -4,5 +4,5 @@
     <img src="https://skillicons.dev/icons?i=javascript,html,css" />
 </p>
 <p>
-    <img src="https://skillicons.dev/icons?i=cpp,qt" />
+    <img src="https://skillicons.dev/icons?i=cpp,qt,express" />
 </p>
