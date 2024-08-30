@@ -1,7 +1,7 @@
 <h2>👋 Hey, I'm Vlad! I'm frontend developer from Minsk </h2>
 <h2>💻 Tech stack</h2>
 <p>
-    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,gulp" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,html,css,gulp" />
 </p>
 <p>
     <img src="https://skillicons.dev/icons?i=cpp,qt,express,scss" />
